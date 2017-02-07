@@ -18,6 +18,7 @@ A [physical memorial](http://eji.org/news/eji-announces-plans-to-build-museum-an
 - Determines task timing and dependencies through consultation and research, as well as how to integrate independent work streams without redundancy
 - Ensures that project choices will satisfy requirements
 - Schedules meetings and establishes deadlines
+
 Skills: Listening; attention to detail
 
 ### Archivist and Database Administrator
@@ -25,12 +26,14 @@ Skills: Listening; attention to detail
 - Lead decisions around use and representation of data
 - Understands all data requirements for features, as well as limitations of available data
 - Manipulates data to necessary standards
+
 Skills: SQL; Advanced Excel; OpenRefine or similar; understanding of metadata and archives
 
 ### Developer
 - Develops scripts to interface with data and APIs
 - Customize existing frameworks as needed to meet project requirements
 - Leads front-end development 
+
 Skills: Automation (likely in Python); basic algorithm knowledge; SQL; HTML/CSS and some JS
 
 ### Interface Designer and Project Advocate
@@ -39,5 +42,6 @@ Skills: Automation (likely in Python); basic algorithm knowledge; SQL; HTML/CSS 
 - Assists in front-end development
 - Responds to inquiries
 - Leads team in discussions of concerns and ethical questions
-Skills: Knowledge of social media; communication skills; design skills; 
+
+Skills: Knowledge of social media; communication skills; design skills 
 
