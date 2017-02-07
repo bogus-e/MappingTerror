@@ -1,11 +1,14 @@
-## Audience 
-Secondary and post-secondary instructors. Information consumers, media and other organizations may benefit. With continued development the tool can be useful for scholars too.
+#Mapping Terror: _Mapping Spatial and Temporal Patterns of Lynching in the U.S. South from 1882 to 1930_
+
+## Abstract
+Lynching, as a distinctly U.S. phenomenon has been considered from two perspectives: that of the case study, which resembles journalism in its fact-finding mission and presentation of detail, and of comparative study, in which each lynching is considered a data point. The latter, distant as it may be, allows for the 
 
 ## Goal 
 Visualize the temporal and spatial patterns of lynching and overlay other related geographic and time-series data.
-
 ## Mission
 To make visible some of the most brutal and widespread violence violence in postbellum America in the interest of educating citizens of the consequences and resilience of white supremacy. 
+## Audience 
+Secondary and post-secondary instructors. Information consumers, media and other organizations may benefit. With continued development the tool can be useful for scholars too.
 
 ## Requirements
 -Install Omeka and Neatline
