@@ -1,44 +1,16 @@
-#Mapping Terror: _Mapping Spatial and Temporal Patterns of Lynching in the U.S. South from 1882 to 1930_
+#Mapping Terror
+_The Spatial and Temporal Patterns of Lynching in the U.S. South from 1882 to 1930_
 
 ## Abstract
-Lynching, as a distinctly U.S. phenomenon has been considered from two perspectives: that of the case study, which resembles journalism in its fact-finding mission and presentation of detail, and of comparative study, in which each lynching is considered a data point. The latter, distant as it may be, allows for the 
+A [physical memorial](http://eji.org/news/eji-announces-plans-to-build-museum-and-national-lynching-memorial) for the victims of lynching is in the works, and a schema for a [memorial reading](http://journals.sagepub.com.ezproxy.gc.cuny.edu/doi/abs/10.1177/2332649215583841) has been developed by some educators. Utilizing data on lynching in the postbellum South made available by sociologists, I propose the creation of a tool that announces the anniversaries of victim's killings as a mode to spread awareness about this dark chapter of U.S. history. The project will create or utilize an existing online archive of available materials on known lynching victims, develop a script to summarize information and a link to more materials, and feed this to other platforms, such as a webpage, social media, and/or an embedded text box that can be incorporated on other websites. 
 
-## Goal 
-Visualize the temporal and spatial patterns of lynching and overlay other related geographic and time-series data.
-## Mission
-To make visible some of the most brutal and widespread violence violence in postbellum America in the interest of educating citizens of the consequences and resilience of white supremacy. 
-## Audience 
-Secondary and post-secondary instructors. Information consumers, media and other organizations may benefit. With continued development the tool can be useful for scholars too.
-
-## Requirements
--Install Omeka and Neatline
-- Determine necessary data parameters and extract for import into omeka
-- 
-
-## Roles
-### Project manager 
-	- Determines task timing and dependencies through consultation and research, as well as how to integrate independent work streams without redundancy  
-	- Ensures that project choices will satisfy requirements
-	- Schedules meetings and establishes deadlines
-	Skills: Listening; attention to detail
-### Developer
-	- Troubleshoots necessary web software installations
-	- Explore feasibility of feature development; learn packages and programming skills as necessary; customize and further develop project frameworks
-	- Do basic front-end development as needed
-	Skills: JS; Python; SQL; ability to learn what is needed
-### Webmaster
-	- Manages website including tool installation, FTP, cPanel, and Git 
-	- May do HTML/CSS work
-	Skills: Savvy troubleshooter with a knack for interpreting specifications and directions; HTML/CSS; Shell; Git; Linux
-### Database Administrator
-	- Understands all data requirements for features and software, as well as limitations of available data
-	- Manipulates data to necessary standards
-	-Determines and understands needs for data management, including how data will be stored, accessed, and modified  
-	Skills: SQL; R/Python; Advanced Excel; OpenRefine or similar
-### Designer and Tester
-	- Determines compatibility requirements and continuously ensures they are met
-	- 
-	Skills: HTML/CSS Framework knowledge (Bootstrap/Sass or whatever is needed); JS; Wireframing and general design skills, including color theory and interface design
-
-
+## Deliverables
+1. A complete, web-integrated collection of records of individual lynching victims that contains available information such as:
+  1. the location, time, and date of the lynching
+  1. the race, age, occupation, and family status of the victim
+  1. any information on the mob (usually only race)
+  1. materials such as newspaper articles, essays, books, or perhaps, photographs that describe the lynching
+1. A script that compares the current date with dates of past lynchings and returns all matching records
+1. A script that pulls information from the record and creates a statement in English 
+1. A means by which to publicize the memorial
 
