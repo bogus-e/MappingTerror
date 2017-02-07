@@ -45,3 +45,15 @@ Skills: Automation (likely in Python); basic algorithm knowledge; SQL; HTML/CSS 
 
 Skills: Knowledge of social media; communication skills; design skills 
 
+## Needs and Resources
+### Data
+Perhaps the best source of lynching data is the Tolnay-Beck-Bailey inventory, which I have access to. There are severe limitations in spatial and temporal representation: it includes lynching data on 10 Southern states (noteably excluding Texas) between 1882-1930. See Cook (2012) for an excellent review of lynching data. 
+### Materials
+TBD
+
+##Bibliography
+Bailey, Amy Kate, and Stewart E. Tolnay. 2015. Lynched: The Victims of Southern Mob Violence. Chapel Hill: The University of North Carolina Press.
+Bailey, Amy Kate, Jason Leiker, Andrew Gutierrez, Eric C. Larson, and Serena Mitchell. 2015. “Memorializing Lynch Victims.” Sociology of Race and Ethnicity 1 (3): 454–459. doi:10.1177/2332649215583841.
+Cook, Lisa D. 2012. “Converging to a National Lynching Database: Recent Developments and the Way Forward.” Historical Methods: A Journal of Quantitative and Interdisciplinary History 45 (2): 55–63. doi:10.1080/01615440.2011.639289.
+Tolnay, Stewart E., and E. M. Beck. 1995. A Festival of Violence: An Analysis of Southern Lynchings, 1882-1930. Urbana: University of Illinois Press.
+
