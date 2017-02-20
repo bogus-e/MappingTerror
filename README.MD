@@ -45,6 +45,8 @@ Skills: Automation (likely in Python); basic algorithm knowledge; SQL; HTML/CSS 
 
 Skills: Knowledge of social media; communication skills; design skills 
 
+
+
 ## Needs and Resources
 ### Data
 Perhaps the best source of lynching data is the Tolnay-Beck-Bailey inventory, which I have access to. There are severe limitations in spatial and temporal representation: it includes lynching data on 10 Southern states (noteably excluding Texas) between 1882-1930. See Cook (2012) for an excellent review of lynching data. 
